@@ -1,0 +1,6 @@
+C:\Users\mathe\source\repos\PrioControl\output\PrioControlServer.net.dll
+C:\Users\mathe\source\repos\PrioControl\output\PrioControlServer.net.pdb
+C:\Users\mathe\source\repos\PrioControl\PrioControlServer\obj\Debug\PrioControlServer.csproj.AssemblyReference.cache
+C:\Users\mathe\source\repos\PrioControl\PrioControlServer\obj\Debug\PrioControlServer.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\PrioControl\PrioControlServer\obj\Debug\PrioControlServer.net.dll
+C:\Users\mathe\source\repos\PrioControl\PrioControlServer\obj\Debug\PrioControlServer.net.pdb
